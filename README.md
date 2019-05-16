@@ -1,11 +1,5 @@
 # HeartNotation [![Build Status](https://travis-ci.com/heartnotation/heartnotation.svg?branch=master)](https://travis-ci.com/heartnotation/heartnotation)
 
-Pour tester l'application sur le serveur, il faut avoir un *host* s'appelant `heartnotation.local` qui pointe sur l'adresse du serveur de recette.
+This project is an annotation platform, made to tag some signals, used for machine learning algorithms training.
+It has been made with love by a bunch of student as a final project, so **please enjoy !** :kiss:
 
-Donc sur votre machine, dans le fichier `/etc/hosts`, ajoutez la ligne
-```
-51.15.2.24  heartnotation.local
-```
-
-- [REST API](http://51.15.2.24:8080)(not available anymore)
-- [Frontend Application](http://51.15.2.24)(not available anymore)
